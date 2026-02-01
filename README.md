@@ -1,4 +1,4 @@
-<img width="740" height="460" alt="image" src="https://github.com/user-attachments/assets/554d14a6-69ea-4e25-bd2b-bf43c1076c1a" /># Flappy Bird (Java)
+# Flappy Bird (Java)
 
 A simple Flappy Bird clone developed using Java Swing and AWT.
 The game demonstrates core Object-Oriented Programming concepts,
