@@ -17,4 +17,5 @@ GUI development, collision detection, scoring system, and file handling.
 - File Handling
 
 ## OUTPUT
+
 <img width="740" height="460" alt="Flappy bird 1" src="https://github.com/user-attachments/assets/fd997651-ea25-440f-9488-8705dbde1637" />
